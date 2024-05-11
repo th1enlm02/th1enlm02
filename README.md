@@ -3,9 +3,9 @@
 
 - 👨‍💻 I’m currently studying at [University of Information Technology VNU-HCM](https://uit.edu.vn/)
 
-- 🌱 I’m currently learning **ReactJS, NodeJS, Java Spring Boot, Docker, Kubernetes, Jenkins, AWS**
+- 🌱 I’m currently learning: **ReactJS, NodeJS, Java Spring Boot, Docker, Kubernetes, Jenkins, AWS**
 
-- 📫 How to reach me **minhthienluu2406@gmail.com**
+- 📫 How to reach me: **minhthienluu2406@gmail.com**
 
 <h3 align="left">🙆‍♂️ Connect with me:</h3>
 <p align="left">
