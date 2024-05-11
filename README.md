@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Luu Minh Thien 👋</h1>
 <p align="center">I'm a third-year student majoring in Computer Networks and Communications at the University of Information Technology VNU-HCM. With a keen interest in DevOps engineering and back-end development, I'm passionate about mastering the tools and technologies that power modern infrastructure and applications.</p>
 
-- 👨‍💻 I’m currently studying at [University of Information Technology VNU-HCM](https://uit.edu.vn/)
+- 👨‍💻 I’m presently studying at [University of Information Technology VNU-HCM](https://uit.edu.vn/)
 
 - 🌱 I’m currently learning: **ReactJS, NodeJS, Java Spring Boot, Docker, Kubernetes, Jenkins, AWS**
 
