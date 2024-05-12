@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Luu Minh Thien 👋</h1>
-<p align="center">I'm a junior student majoring in Computer Networks and Communications at the University of Information Technology VNU-HCM. With a keen interest in DevOps engineering and back-end development, I'm passionate about mastering the tools and technologies that power modern infrastructure and applications.</p>
+<p align="center">I'm a junior student majoring in Computer Networks and Data Communications at the University of Information Technology VNU-HCM. With a keen interest in DevOps engineering and back-end development, I'm passionate about mastering the tools and technologies that power modern infrastructure and applications.</p>
 
 - 👨‍💻 I’m presently studying at [University of Information Technology VNU-HCM](https://uit.edu.vn/)
 
