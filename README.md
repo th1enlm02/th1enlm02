@@ -27,4 +27,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=th1enlm02&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false" alt="th1enlm02" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=th1enlm02&theme=tokyonight" alt="th1enlm02" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=th1enlm02&theme=tokyonight" alt="th1enlm02" /></p>
