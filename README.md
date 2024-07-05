@@ -3,8 +3,6 @@
 
 - 👨‍💻 I’m presently studying at [University of Information Technology VNU-HCM](https://uit.edu.vn/)
 
-- 🌱 I’m currently learning: **ReactJS, NodeJS, Java Spring Boot, Docker, Kubernetes, Jenkins, AWS**
-
 - 📫 How to reach me: **minhthienluu2406@gmail.com**
 
 <hr>
