@@ -27,6 +27,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/th1enlm02/th1enlm02/output/github-contribution-grid-snake.svg">
 </picture>
 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/th1enlm02/count.svg?"/></p>
+
 <hr>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=th1enlm02&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="th1enlm02" /></p>
