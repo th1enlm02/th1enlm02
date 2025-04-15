@@ -5,6 +5,8 @@
 
 - 📫 How to reach me: **minhthienluu2406@gmail.com**
 
+- My [**Portfolio**](https://portfolio.th1enlm02devops.engineer/)!
+
 <hr>
 
 <h3 align="left">🙆‍♂️ Connect with me:</h3>
