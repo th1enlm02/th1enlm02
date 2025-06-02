@@ -1,11 +1,13 @@
 <h1 align="center">Hi, I'm Thien 👋</h1>
-<p align="center">I'm a senior student majoring in Computer Networks and Data Communications at the University of Information Technology VNU-HCM. With a keen interest in DevOps engineering, I'm passionate about mastering the tools and technologies that power modern infrastructure and applications.</p>
+<p align="center">I’m a fourth-year tech enthusiast at the University of Information Technology, VNU-HCM, geeking out over Computer Networks and Data Communications! I’m on a fun ride to become a DevOps/System Engineer, where I get to mess around with networks, systems, and automation. I’m all about setting up slick systems, tweaking network vibes, and automating the boring stuff to keep things running smoothly - basically, I love making tech work like magic!</p>
+
+`DevOps/System Engineer`
 
 - 👨‍💻 I’m presently studying at [University of Information Technology VNU-HCM](https://uit.edu.vn/)
 
 - 📫 How to reach me: **minhthienluu2406@gmail.com**
 
-- My [**Portfolio**](https://portfolio.th1enlm02devops.engineer/) here!
+- Hop over to my portfolio at [**Here**](https://portfolio.th1enlm02devops.engineer/)!
 
 <hr>
 
