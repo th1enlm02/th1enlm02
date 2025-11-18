@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Thien 👋</h1>
-<p align="center">I'm just a guy who's a little broken, reminding myself to keep going.</p>
+<p align="center">But you can call me Levi</p>
 
 `DevOps/System Engineer`
 
