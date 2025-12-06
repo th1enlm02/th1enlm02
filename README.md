@@ -3,7 +3,7 @@
 
 `DevOps/System Engineer`
 
-- 👨‍💻 Gradurated at [University of Information Technology VNU-HCM](https://uit.edu.vn/)
+- 👨‍💻 Graduated at [University of Information Technology VNU-HCM](https://uit.edu.vn/)
 
 <hr>
 
