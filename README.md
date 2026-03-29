@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Thien 👋</h1>
 <p align="center">But you can call me Levi</p>
 
-`DevOps/System Engineer`
+`DevOps Engineer`
 
 - 👨‍💻 Graduated at [University of Information Technology VNU-HCM](https://uit.edu.vn/)
 
